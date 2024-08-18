@@ -53,6 +53,6 @@ I'm a Data Scientist working at Claro Brazil, the biggest telecommunications in 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diguis/diguis/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/diguis/blob/output/github-contribution-grid-snake2.svg)
 
 ###
