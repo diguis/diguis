@@ -50,9 +50,4 @@ I'm a Data Scientist working at Claro Brazil, the biggest telecommunications in 
 </div>
 
 ###
-
 <br clear="both">
-
-![snake animation](https://github.com/diguis/blob/output/github-contribution-grid-snake2.svg)
-
-###
